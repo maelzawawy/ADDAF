@@ -1,7 +1,6 @@
 # ADDAF
 
-This repository contains result files related to our paper "ADDAF: Authentication Scheme for Digital Twin-Based
-Drone-Assisted Artificial Intelligence of Things with Federated Learning". Below is a description of each file in this project:
+This repository contains result files related to our paper "Privacy-Preserving Authentication for Digital Twin-Based and Drone-Assisted AIoT Networks". Below is a description of each file in this project:
 
 ## File Descriptions
 
